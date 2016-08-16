@@ -70,7 +70,7 @@ Here's an example:
 }
 ```
 
-As you can see **Replicas**, **Constraints** and **EndpoitMode** are extended features that are not currently supported in the current [DAB specification](https://github.com/docker/docker/blob/master/experimental/docker-stacks-and-bundles.md). Some other features like setting service **PublishedPorts** is also possible.
+As you can see **Replicas**, **Constraints** and **EndpointMode** are extended features that are not currently supported in the current [DAB specification](https://github.com/docker/docker/blob/master/experimental/docker-stacks-and-bundles.md). Some other features like setting service **PublishedPorts** is also possible.
 
 ## FAQ
 
